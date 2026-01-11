@@ -4,7 +4,7 @@
 
 
 
-[Click here to view interactive dashboard here on the Power Bi Service](https://app.powerbi.com/links/d2I8a8g3fy?ctid=6856eed6-b8b2-4e6f-a212-806bf9d2e509&pbi_source=linkShare)
+[Click here to view interactive dashboard on the Power Bi Service](https://app.powerbi.com/links/d2I8a8g3fy?ctid=6856eed6-b8b2-4e6f-a212-806bf9d2e509&pbi_source=linkShare)
 
 ## Introduction
 This dashboard was designed to help job seekers, career switchers, and professionals better understand the data job market. Information about data roles is often scattered across multiple platforms, making it difficult to see clear trends. Using a real world dataset of 2024 data related job postings including job titles, salaries, and locations, this dashboard brings everything together in one interactive view. It allows users to easily explore market trends, compare roles, and gain insights into compensation and demand across different regions.
