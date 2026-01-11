@@ -15,21 +15,51 @@ Below are selected dashboards from this portfolio. Each project includes a dedic
 [Click here to view interactive dashboard on the Power Bi Service](https://app.powerbi.com/links/d2I8a8g3fy?ctid=6856eed6-b8b2-4e6f-a212-806bf9d2e509&pbi_source=linkShare)
 
 
-## Key Power Bi Skills Utilized
+**Key Power Bi Skills Utilized :**
 
-📊 Analytical Measures and KPIs
+- 📊 Analytical Measures and KPIs
 
-📈 Insight-Driven Visualizations
+- 📈 Insight-Driven Visualizations
 
-🗺️ Geo spatial Reporting
+- 🗺️ Geo spatial Reporting
 
-📋 Reporting and KPI Presentation
+- 📋 Reporting and KPI Presentation
 
-🎯 Dashboard Design and Storytelling
+- 🎯 Dashboard Design and Storytelling
 
-🖱️ Interactive User Experience
+- 🖱️ Interactive User Experience
 
 
 [➡️ **View Full Project Details (README)** ](/Data_Job_V1/README.md)
 
 
+
+## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focused)
+
+![Dashboard Page](/Images/project2_page1.png)
+
+[Click here to view interactive dashboard on the Power Bi Service](https://app.powerbi.com/links/xlfj5JyewS?ctid=6856eed6-b8b2-4e6f-a212-806bf9d2e509&pbi_source=linkShare)
+
+
+**Key Power Bi Skill Utilized (Demonstrating Progression):**
+
+- 📊 Dashboard Design
+
+- ⚡ Power Query (ETL)
+
+- 🗂️ Data Modeling
+
+- 📈 DAX Fundamentals
+
+- 🎨 Data Visualization
+
+- 🕹️ Interactivity & Navigation
+
+
+[➡️ **View Full Project 2 Details (README)** ](/Data_Jobs_V2/README.md)
+
+-------
+
+## About This Portfolio
+
+Each dashboard linked above includes a detailed README.md file in its project folder, providing deeper insights into the project objectives, data sources, Power BI techniques used, and a closer look at the dashboard build.
